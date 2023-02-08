@@ -19,7 +19,7 @@
                 "quantity",
                 "description",
                 "checkout_buttons"
-            ] 123
+            ]
         }
     },
     "order": ["template"]
